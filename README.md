@@ -5,8 +5,9 @@ This mod completely replaces Baldur's Gate 2 Enhanced Edition's default user int
 Icewind Dale Enhanced Edition.
 The mod come with two components:
 
-a) core: an almost identical reproduction of the user interface from IWDEE is installed for BG2EE. However, because of some differences between the two games, a few minor things have been altered/removed/added.
-b) extra: additional changes and tweaks for the core component of this mod made by it's author, in suit with his personal preferences. For example: further tweaked the game's text, overhauled side bar buttons, in-game's clock replacement, tooltip replacement, etc.
+i) core: an almost identical reproduction of the user interface from IWDEE is installed for BG2EE. However, because of some differences between the two games, a few minor things have been altered/removed/added.
+
+ii) extra: additional changes and tweaks for the core component of this mod made by it's author, in suit with his personal preferences. For example: further tweaked the game's text, overhauled side bar buttons, in-game's clock replacement, tooltip replacement, etc.
 
 3) Requirements:
 - Baldur's Gate 2 Enhanced Edition patched to the latest version v2.6.6.0
