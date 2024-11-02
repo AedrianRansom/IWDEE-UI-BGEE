@@ -16,7 +16,7 @@ The mod come with two components:
 
 4) Compatibility with other mods:
 - as a user interface mod, it should be installed as early possible, before any other mods.
-- this mod is not compatibile with other user interface mods like: Lefreut's Enhanced UIs, Dragonspear UI+, Infinity UI++ or any other mods which change the same things as this one.
+- this mod is not compatible with other user interface mods like: Lefreut's Enhanced UIs, Dragonspear UI+, Infinity UI++ or any other mods which change the same things as this one.
 - mods which alter the UI.MENU file afterwards might not always be compatible.
 - other mods like portraits, quest, rule modifications mods are(or should be) compatible.
 
