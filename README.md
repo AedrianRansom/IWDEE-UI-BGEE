@@ -31,5 +31,4 @@ b) extra: additional changes and tweaks for the core component of this mod made 
 - Bioware & Beamdog - BG2EE & IWDEE's developers.
 
 7) Release history:
-
-v0.9 - initial BETA release.
+- v0.9 - initial BETA release.
