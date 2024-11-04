@@ -4,8 +4,8 @@ IWDEE-UI-BG2EE
 This mod completely replaces Baldur's Gate 2 Enhanced Edition's default user interface with the one from
 Icewind Dale Enhanced Edition.
 The mod come with two components: 
-a) core: an almost identical reproduction of the user interface from IWDEE is installed for BG2EE. However, because of some differences between the two games, a few minor things have been altered/removed/added.
-b) extra: additional changes and tweaks for the core component of this mod made by it's author, in suit with his personal preferences. For example: further tweaked the game's text, overhauled side bar buttons, in-game's clock replacement, tooltip replacement, etc.
+- core: an almost identical reproduction of the user interface from IWDEE is installed for BG2EE. However, because of some differences between the two games, a few minor things have been altered/removed/added.
+- extra: additional changes and tweaks for the core component of this mod made by it's author, in suit with his personal preferences. For example: further tweaked the game's text, overhauled side bar buttons, in-game's clock replacement, tooltip replacement, etc.
 
 2) Requirements:
 - Baldur's Gate 2 Enhanced Edition patched to the latest version v2.6.6.0
@@ -37,3 +37,5 @@ b) extra: additional changes and tweaks for the core component of this mod made 
 02.11.24 - v09a - updated 'POPUP_REQUESTER' menu.
 
 03.11.24 - v09b - updated 'CHARACTER_SCRIPT' menu, various new tweaks for the extra component.
+
+04.11.24 - v09c - updated "SPELL_DESCRIPTION" menu to show proper text for erase button.
