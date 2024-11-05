@@ -8,7 +8,7 @@ The mod come with two components:
 - extra: additional changes and tweaks for the core component of this mod made by it's author, in suit with his personal preferences. For example: further tweaked the game's text, overhauled side bar buttons, in-game's clock replacement, tooltip replacement, etc.
 
 2) Requirements:
-- Baldur's Gate 2 Enhanced Edition patched to the latest version v2.6.6.0
+- BG1EE,SOD,BG2EE,EET - v2.6.6.0
 
 3) Installation: 
 - download the provided zip file, and copy the contents into your BG2EE's base folder. Run the setup-IWDEE-UI-BG2EE.exe, and your good to go.
@@ -39,3 +39,5 @@ The mod come with two components:
 03.11.24 - v09b - updated 'CHARACTER_SCRIPT' menu, various new tweaks for the extra component.
 
 04.11.24 - v09c - updated "SPELL_DESCRIPTION" menu to show proper text for erase button.
+
+05.11.24 - v09d - update to support BG1EE,SOD,BG2EE,EET.
