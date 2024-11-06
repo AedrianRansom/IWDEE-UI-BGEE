@@ -1,17 +1,16 @@
-IWDEE-UI-BG2EE
+IWDEE-UI-BGEE
 
 1) Overview:
-This mod completely replaces Baldur's Gate 2 Enhanced Edition's default user interface with the one from
-Icewind Dale Enhanced Edition.
+This mod completely replaces Baldur's Gate 1 Enhanced Edition & Baldur's Gate 2 Enhanced Edition's default user interface with the one from Icewind Dale Enhanced Edition.
 The mod come with two components: 
-- core: an almost identical reproduction of the user interface from IWDEE is installed for BG2EE. However, because of some differences between the two games, a few minor things have been altered/removed/added.
+- core: an almost identical reproduction of the user interface from IWDEE is installed for BG1EE, SOD, BG2EE or EET. However, because of some differences between the games, a few minor things have been altered/removed/added.
 - extra: additional changes and tweaks for the core component of this mod made by it's author, in suit with his personal preferences. For example: further tweaked the game's text, overhauled side bar buttons, in-game's clock replacement, tooltip replacement, etc.
 
 2) Requirements:
 - BG1EE,SOD,BG2EE,EET - v2.6.6.0
 
 3) Installation: 
-- download the provided zip file, and copy the contents into your BG2EE's base folder. Run the setup-IWDEE-UI-BG2EE.exe, and your good to go.
+- download the provided zip file, and copy the contents into your games's base folder. Run the setup-IWDEE-UI-BGEE.exe, and your good to go.
 
 4) Compatibility with other mods:
 - as a user interface mod, it should be installed as early possible, before any other mods.
@@ -40,4 +39,6 @@ The mod come with two components:
 
 04.11.24 - v09c - updated "SPELL_DESCRIPTION" menu to show proper text for erase button.
 
-05.11.24 - v09d - update to support BG1EE,SOD,BG2EE,EET.
+05.11.24 - v09d - update to support BG1EE,SOD,BG2EE,EET
+
+06.11.24 - v09e - changed the name of the mod, various fixes and updates.
