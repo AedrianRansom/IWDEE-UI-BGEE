@@ -42,3 +42,5 @@ The mod comes with two components:
 05.11.24 - v09d - update to support BG1EE,SOD,BG2EE,EET
 
 06.11.24 - v09e - changed the name of the mod, various fixes and updates.
+
+08.11.24 - v09f - updated 'CHARGEN_HIGH_LEVEL_ABILITIES' menu.
