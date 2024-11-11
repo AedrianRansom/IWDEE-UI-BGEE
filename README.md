@@ -1,4 +1,4 @@
-IWDEE-UI-BGEE
+IWDEE-UI-BGEE-v1.0
 
 1) Overview:
 This mod completely replaces Baldur's Gate 1 Enhanced Edition & Baldur's Gate 2 Enhanced Edition's default user interface with the one from Icewind Dale Enhanced Edition.
@@ -41,6 +41,8 @@ The mod comes with two components:
 
 05.11.24 - v09d - update to support BG1EE,SOD,BG2EE,EET
 
-06.11.24 - v09e - changed the name of the mod, various fixes and updates.
+06.11.24 - v09e - changed the name of the mod to IWDEE-UI-BGEE, various fixes and updates.
 
 08.11.24 - v09f - updated 'CHARGEN_HIGH_LEVEL_ABILITIES' menu.
+
+11.11.24 - v1.0 - mod is out of beta, various changes for the extra component.
