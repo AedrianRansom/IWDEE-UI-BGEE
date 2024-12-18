@@ -49,6 +49,8 @@ The mod comes with two components:
 
 12.11.24 - v1.1 - remade mage book and priest scroll menus.
 
+18.12.24 - v1.5 - minor font changes for the extra component.
+
 18.11.24 - v1.2 - minor tweaks for the extra component.
 
 20.11.24 - v1.3 - updated "WORLD_DEATH" menu.
