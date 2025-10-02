@@ -1,4 +1,4 @@
-IWDEE-UI-BGEE-v1.6
+IWDEE-UI-BGEE-v1.7
 
 1) Overview:
 This mod completely replaces Baldur's Gate 1 Enhanced Edition & Baldur's Gate 2 Enhanced Edition's default user interface with the one from Icewind Dale Enhanced Edition.
@@ -49,8 +49,6 @@ The mod comes with two components:
 
 12.11.24 - v1.1 - remade mage book and priest scroll menus.
 
-18.12.24 - v1.5 - minor font changes for the extra component.
-
 18.11.24 - v1.2 - minor tweaks for the extra component.
 
 20.11.24 - v1.3 - updated "WORLD_DEATH" menu.
@@ -59,4 +57,6 @@ The mod comes with two components:
 
 18.12.24 - v1.5 - minor font changes for the extra component.
 
-04.05.25 - v1.6 - fixed area map title text for bgee & sod
+04.05.25 - v1.6 - fixed area map title text for bgee & sod.
+
+02.10.25 - v1.7 - updated main, save/load, chapter movies menus to fit 1366x768 resolution for the extra component.
