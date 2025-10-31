@@ -60,3 +60,5 @@ The mod comes with two components:
 04.05.25 - v1.6 - fixed area map title text for bgee & sod.
 
 02.10.25 - v1.7 - updated main, save/load, chapter movies menus to fit 1366x768 resolution for the extra component.
+
+31.10.25 - v1.8 - added missing 1366x768 resolution dreams sequence mos files for the extra component.
