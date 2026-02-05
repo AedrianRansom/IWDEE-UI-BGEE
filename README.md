@@ -1,4 +1,4 @@
-IWDEE-UI-BGEE-v1.7
+IWDEE-UI-BGEE-v1.8
 
 1) Overview:
 This mod completely replaces Baldur's Gate 1 Enhanced Edition & Baldur's Gate 2 Enhanced Edition's default user interface with the one from Icewind Dale Enhanced Edition.
