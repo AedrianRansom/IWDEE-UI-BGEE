@@ -1,13 +1,16 @@
-IWDEE-UI-BGEE-v1.8
+IWDEE-UI-BGEE-v1.9
 
 1) Overview:
 This mod completely replaces Baldur's Gate 1 Enhanced Edition & Baldur's Gate 2 Enhanced Edition's default user interface with the one from Icewind Dale Enhanced Edition.
-The mod comes with two components: 
+The mod comes with five components: 
 - core: an almost identical reproduction of the user interface from IWDEE is installed for BG1EE, SOD, BG2EE or EET. However, because of some differences between the games, a few minor things have been altered/removed/added.
 - extra: additional changes and tweaks for the core component of this mod made by it's author, in suit with his personal preferences. For example: further tweaked the game's text, overhauled side bar buttons, in-game's clock replacement, tooltip replacement, etc.
+- transparent sidebar: this component makes the left and right sidebars transparent.
+- background: this component adds the SOD background to the user interface (for start menus and during chapter&dream sequences). The background is 3840x2160 and can be changed by editing BCKGRND.PNG.
+- patch27 - this component patches the mod with a compatibility hack for 2.7 versions of the games.
 
 2) Requirements:
-- BG1EE,SOD,BG2EE,EET - v2.6.6.0
+- BG1EE,SOD,BG2EE,EET - v2.6.6.0 & v2.7.3.0
 
 3) Installation: 
 - download the provided zip file, and copy the contents into your games's base folder. Run the setup-IWDEE-UI-BGEE.exe, and your good to go.
@@ -62,3 +65,5 @@ The mod comes with two components:
 02.10.25 - v1.7 - updated main, save/load, chapter movies menus to fit 1366x768 resolution for the extra component.
 
 31.10.25 - v1.8 - added missing 1366x768 resolution dreams sequence mos files for the extra component.
+
+30.06.26 - v1.9 - added two new components: transparent sidebars and background, updated some missing tooltip text for BGEE&SOD interface, various fixes for the multiplayer interface, compatibility patch for 2.7 game versions.
